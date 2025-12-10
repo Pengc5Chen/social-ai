@@ -23,3 +23,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# go backend
+/backend/bin/
+/backend/pkg/
+/backend/*.log
+/backend/.env
