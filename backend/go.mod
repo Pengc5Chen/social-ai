@@ -1,6 +1,6 @@
-module socialai
+module github.com/Pengc5Chen/social-ai/backend
 
-go 1.25.3
+go 1.22
 
 require (
 	cel.dev/expr v0.24.0 // indirect
